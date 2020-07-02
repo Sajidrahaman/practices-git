@@ -1,0 +1,37 @@
+.full-container{
+    width: 960px;
+    margin: 0 auto;
+}
+.first-section{
+   margin-top: 50px;
+
+}
+.left-content{
+     width: 45%;
+     float: left;
+     margin-left: 5%;
+}
+.left-content h1{
+    text-transform: uppercase;
+    
+}
+.left-content p{
+    text-align: justify;
+  word-spacing: -0.1em;
+}
+.left-content h1 span{
+    color: orange;
+}
+.left-content img{
+    width: 400px;
+    border-radius: 55%;
+
+}
+.left-content a{
+    width: 20px;
+    text-decoration: none;
+    background-color:orange ;
+    padding: 10px;
+    border-radius: 5px;
+    color: navy;
+}
