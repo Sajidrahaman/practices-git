@@ -2,13 +2,12 @@
     margin: 0;
     padding: 0;
 }
-body{
-    background-color: #ddd;
-}
+
 .content-div{
     width: 50%;
     float: left;
     margin-top: 50px;
+   height:537px ; 
 
     
 }
@@ -51,9 +50,16 @@ body{
     border-radius: 5px;
     
 }
+.mane-section{
+    height: 587px;
+   background-image: url( images/latest-work-bg.png);
+   background-size: cover;
+}
+.mane-section-two{
+    height: 667px;
+   background-image: url( images/header-bg.png);
+   background-size: cover;
 
-.section-two{
-    height: 1253px;;
 }
 
 .two-content-div{
@@ -68,6 +74,7 @@ body{
     border-bottom-left-radius: 100px;
     border-top-left-radius: 100px;  
     float: right;
+    margin-top: 80px;
 }
 
 .two-content-div p{
